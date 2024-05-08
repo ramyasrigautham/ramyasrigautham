@@ -26,7 +26,7 @@
 
 
 <h4>🔭 Current Projects</h4>
-<p>I’m currently working on machine learning models for predictive analytics and data-driven decision-making. Check out my latest project, a <a href="https://public.tableau.com/app/profile/ramya.sri.gautham/viz/TheGreatAmericanCoffeeTest/Product">Tableau dashboard on coffee consumption trends</a>.</p>
+<p>I’m currently working on Data Analysis. Check out my latest project, a <a href="https://public.tableau.com/app/profile/ramya.sri.gautham/viz/TheGreatAmericanCoffeeTest/Home">Tableau dashboard on coffee consumption trends</a>.</p>
 
 <h4>🌱 I'm currently learning:</h4>
 <p>Deepening my knowledge in AI and machine learning algorithms, specifically focusing on their applications in real-world scenarios.</p>
