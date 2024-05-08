@@ -4,10 +4,26 @@
 
 <h4>🔨 Technologies & Tools</h4>
 <ul>
-  <li><strong>Languages:</strong> Python, JavaScript, R, XML</li>
-  <li><strong>Tools:</strong> Oracle SQL, Jenkins, GitHub, Anaconda, Jupyter Notebook, Tableau</li>
-  <li><strong>Frameworks/Libraries:</strong> PyTorch, scikit-learn</li>
+  <li>🐍 <strong>Python</strong></li>
+  <li>🟨 <strong>JavaScript</strong></li>
+  <li>ℛ <strong>R</strong></li>
+  <li>🔖 <strong>XML</strong></li>
 </ul>
+
+<ul>
+  <li>🔗 <strong>Oracle SQL</strong></li>
+  <li>🛠️ <strong>Jenkins</strong></li>
+  <li>🐙💬 <strong>GitHub</strong></li>
+  <li>🐍📘 <strong>Anaconda</strong></li>
+  <li>📗 <strong>Jupyter Notebook</strong></li>
+  <li>📊 <strong>Tableau</strong></li>
+</ul>
+
+<ul>
+  <li>🔥 <strong>PyTorch</strong></li>
+  <li>🧠 <strong>scikit-learn</strong></li>
+</ul>
+
 
 <h4>🔭 Current Projects</h4>
 <p>I’m currently working on machine learning models for predictive analytics and data-driven decision-making. Check out my latest project, a <a href="https://public.tableau.com/app/profile/ramya.sri.gautham/viz/TheGreatAmericanCoffeeTest/Product">Tableau dashboard on coffee consumption trends</a>.</p>
